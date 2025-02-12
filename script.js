@@ -12,7 +12,7 @@ const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 
 // change this array and use your own gifs
 const gifs = ["assets/images/sad-1.gif", "assets/images/sad-2.gif", "assets/images/sad-3.gif", "assets/images/sad-4.gif"];
-const buttonMessages = ["Are you sure??", "Please", "PLEASE", "You can't do this to me!"];
+const buttonMessages = ["Are you sure you want to reject me","Though shalt regret thy action if thy rejects me!", "Halt your uncouth response", "You shall regret thy actions for eternity if you choose to repeat your action!"];
 
 // no button clicked
 noButton.addEventListener("click", () => {
