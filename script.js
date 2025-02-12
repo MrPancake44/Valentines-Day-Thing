@@ -1,5 +1,5 @@
 let noClicks = 1;
-const maxNoClicks = 4;
+const maxNoClicks = 30;
 const minNoScale = 0.65;
 let noScale = 1;
 let yesScale = 1; 
